@@ -1,0 +1,13 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Business/bin/Debug/net7.0
+/Business/obj
+/Lucca/bin/Debug/net7.0
+/Lucca/obj
+/Lucca.Test/bin
+/Lucca.Test/obj
+/Repository/bin/Debug/net7.0
+/Repository/obj
